@@ -1,22 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Feb 17 23:01:24 2019
-
-@author: Formateur IT
+@author: Zakaria
 """
 # -*- coding: utf-8 -*-
-"""
-Éditeur de Spyder
-
-Ceci est un script temporaire.
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 26 03:16:52 2019
-
-@author: formateurit
-"""
 
 import numpy as np 
 import pandas as pd 
